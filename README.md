@@ -2,13 +2,13 @@
 This repository contains code and resources for detecting handwritten digits using Artificial Neural Networks (ANN).
 
 # Table of Contents
-- Introduction
-- Installation
-- Usage
-- Dataset
-- Preprocessing
-- Model Training
-- Evaluation
+- [Introduction](https://github.com/edilauxillea/Handwritten-Digit-Detection#introduction)
+- [Installation](https://github.com/edilauxillea/Handwritten-Digit-Detection#installation)
+- [Usage](https://github.com/edilauxillea/Handwritten-Digit-Detection#usage)
+- [Dataset](https://github.com/edilauxillea/Handwritten-Digit-Detection#dataset)
+- [Preprocessing](https://github.com/edilauxillea/Handwritten-Digit-Detection#preprocessing)
+- [Model Training](https://github.com/edilauxillea/Handwritten-Digit-Detection#model-training)
+- [Evaluation](https://github.com/edilauxillea/Handwritten-Digit-Detection#evaluation)
   
 # Introduction
 Handwritten digit detection is a popular problem in the field of [image recognition](https://medium.com/dataman-in-ai/module-6-image-recognition-for-insurance-claim-handling-part-i-a338d16c9de0). This project focuses on using Artificial Neural Networks (ANN) to train a model capable of recognizing and classifying handwritten digits accurately. The repository provides code and instructions to preprocess the data, train an ANN model, and evaluate its performance.
